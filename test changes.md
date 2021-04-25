@@ -1,4 +1,4 @@
 - idea1
+	- subidea2
 - idea2
-	- subidea
-- idea3
+	- subid
