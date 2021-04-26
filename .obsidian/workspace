@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test changes.md",
+            "file": "способы удешевления и ускорения разработки.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a9cf7759975498a",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test changes.md",
+                "file": "способы удешевления и ускорения разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "01c849c8c2c8f442",
   "lastOpenFiles": [
-    "Untitled.md"
+    "способы удешевления и ускорения разработки.md",
+    "Untitled.md",
+    "test changes.md"
   ]
 }
